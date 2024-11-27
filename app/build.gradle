@@ -39,5 +39,6 @@ dependencies {
     androidTestImplementation libs.espresso.core
     implementation libs.picasso
     implementation libs.play.services.maps
+    implementation libs.lottie
 
 }
